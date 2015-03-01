@@ -1,0 +1,8 @@
+CallGraphAnalysisApp/bin/.*
+CallGraphAnalysisApp/factoryMethodHierachy
+CallGraphAnalysisApp/net
+CallGraphAnalysisApp/sootOutput
+CallGraphAnalysisApp/targetsBin/.*
+CallGraphAnalysisApp/targets/code/analysis/test/.*
+CallGraphAnalysisApp/targets/code/analysis/test2/.*
+CallGraphAnalysisApp/targets/code/analysis/test3/.*
